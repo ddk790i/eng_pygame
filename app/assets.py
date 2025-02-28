@@ -7,7 +7,7 @@ levels = [
     {'background': 'desert.jpg', 'score_max': 5000, 'speed_ratio': 1.2, 'life_chance': 0.06, 'spawn_ratio': 0.6},
     {'background': 'moscow.jpg', 'score_max': 6000, 'speed_ratio': 1.3, 'life_chance': 0.05, 'spawn_ratio': 0.5},
     {'background': 'arctic.jpg', 'score_max': 7000, 'speed_ratio': 1.4, 'life_chance': 0.04, 'spawn_ratio': 0.4},
-    {'background': 'mars.png', 'score_max': -1, 'speed_ratio': 1.5, 'life_chance': 0.03, 'spawn_ratio': 0.3},
+    {'background': 'mars.jpg', 'score_max': -1, 'speed_ratio': 1.5, 'life_chance': 0.03, 'spawn_ratio': 0.3},
 ]
 # Характеристики мячей
 balls = [
